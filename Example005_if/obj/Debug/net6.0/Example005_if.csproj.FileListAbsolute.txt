@@ -1,0 +1,16 @@
+C:\Users\Елена\Desktop\EXAMPLES\Example005_if\bin\Debug\net6.0\Example005_if.exe
+C:\Users\Елена\Desktop\EXAMPLES\Example005_if\bin\Debug\net6.0\Example005_if.deps.json
+C:\Users\Елена\Desktop\EXAMPLES\Example005_if\bin\Debug\net6.0\Example005_if.runtimeconfig.json
+C:\Users\Елена\Desktop\EXAMPLES\Example005_if\bin\Debug\net6.0\Example005_if.dll
+C:\Users\Елена\Desktop\EXAMPLES\Example005_if\bin\Debug\net6.0\ref\Example005_if.dll
+C:\Users\Елена\Desktop\EXAMPLES\Example005_if\bin\Debug\net6.0\Example005_if.pdb
+C:\Users\Елена\Desktop\EXAMPLES\Example005_if\obj\Debug\net6.0\Example005_if.GlobalUsings.g.cs
+C:\Users\Елена\Desktop\EXAMPLES\Example005_if\obj\Debug\net6.0\Example005_if.csproj.AssemblyReference.cache
+C:\Users\Елена\Desktop\EXAMPLES\Example005_if\obj\Debug\net6.0\Example005_if.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Елена\Desktop\EXAMPLES\Example005_if\obj\Debug\net6.0\Example005_if.AssemblyInfoInputs.cache
+C:\Users\Елена\Desktop\EXAMPLES\Example005_if\obj\Debug\net6.0\Example005_if.AssemblyInfo.cs
+C:\Users\Елена\Desktop\EXAMPLES\Example005_if\obj\Debug\net6.0\Example005_if.csproj.CoreCompileInputs.cache
+C:\Users\Елена\Desktop\EXAMPLES\Example005_if\obj\Debug\net6.0\Example005_if.dll
+C:\Users\Елена\Desktop\EXAMPLES\Example005_if\obj\Debug\net6.0\ref\Example005_if.dll
+C:\Users\Елена\Desktop\EXAMPLES\Example005_if\obj\Debug\net6.0\Example005_if.pdb
+C:\Users\Елена\Desktop\EXAMPLES\Example005_if\obj\Debug\net6.0\Example005_if.genruntimeconfig.cache
